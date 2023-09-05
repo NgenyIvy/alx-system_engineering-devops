@@ -1,0 +1,2 @@
+#!/bin/bash
+[ -n "$DECIMAL" ] && echo "Hexadecimal equivalent of $DECIMAL is: $(printf '%X' "$DECIMAL")"
